@@ -109,3 +109,9 @@ main {
 .about-info {
   text-align: center;
 }
+#what-i-do {
+  padding: 20px 150px;
+}
+.skills_container {
+  display: flex;
+}
