@@ -129,3 +129,12 @@ main {
   padding: 10px;
   color: #757575;
 }
+/* Resume section */
+.resume-colum_title {
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+}
+.resume_container {
+  display: flex;
+}
